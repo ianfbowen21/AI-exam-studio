@@ -1,0 +1,6 @@
+{
+  "name": "NotebookLM Exam Studio",
+  "description": "A comprehensive NotebookLM-style workspace that grounds AI study chat and exams in class notes and previous model exams. Practice interactively with detailed appraisals, and export pristine LaTeX code or PDF documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
